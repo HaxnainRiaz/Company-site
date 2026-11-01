@@ -1,0 +1,11 @@
+'use client';
+import {useState} from 'react';
+import Image from 'next/image';
+import {ArrowLeft,ArrowRight,Star} from 'lucide-react';
+import {Container} from '@/components/ui/container';
+import {designPreview} from '@/content/design-preview';
+const portraits=['portrait-woman','portrait-man','support-specialist'];
+export function TrustSection(){
+ const[active,setActive]=useState(0);
+ return <section className="studio-section testimonial-section"><Container><div className="section-top"><span className="eyebrow">06 / CLIENT PERSPECTIVES</span><span className="preview-tag">SAMPLE TESTIMONIALS · STOCK PORTRAITS</span></div><div className="testimonial-header"><div><h2>Good work gets noticed.<br /><span className="muted-heading">Great relationships stay.</span></h2><p>A preview of the stories this space will tell. Replace these sample perspectives with approved client feedback.</p></div><div className="slider-controls"><button className="circle-button" aria-label="Previous testimonial" onClick={()=>setActive(value=>(value+2)%3)}><ArrowLeft size={19}/></button><button className="circle-button" aria-label="Next testimonial" onClick={()=>setActive(value=>(value+1)%3)}><ArrowRight size={19}/></button></div></div><div className="testimonial-cards" key={active}>{[0,1,2].map(position=>{const index=(active+position)%3;const review=designPreview.testimonials[index];return <article className="perspective-card" key={index}><div className="perspective-photo"><Image src={`/images/editorial/${portraits[index]}.webp`} alt="Illustrative stock portrait, not an actual customer" fill sizes="(max-width:767px) 100vw, 33vw"/><span>Illustrative portrait · sample feedback</span></div><div className="perspective-copy"><div className="perspective-stars" aria-label="Illustrative five-star rating">{[0,1,2,3,4].map(star=><Star size={12} fill="currentColor" key={star}/>)}</div><blockquote>“{review.quote}”</blockquote><div className="perspective-person"><Image src={`/images/editorial/${portraits[index]}.webp`} alt="" width={35} height={35}/><div><strong>Your future client</strong><span>{review.role} · sample attribution</span></div></div></div></article>;})}</div><div className="testimonial-caption"><span aria-live="polite">Featured perspective 0{active+1} / 03</span><span>Real client feedback can be added here when approved.</span></div></Container></section>;
+}

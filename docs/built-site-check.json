@@ -1,0 +1,231 @@
+{
+  "generatedAt": "2026-11-01T07:51:49.457Z",
+  "checkedRoutes": 37,
+  "checkedLocalImages": 32,
+  "checkedLocalLinks": 35,
+  "issues": [],
+  "routes": [
+    {
+      "route": "/about",
+      "h1": "Good people.Good things happen.",
+      "noindex": true,
+      "images": 1
+    },
+    {
+      "route": "/accessibility",
+      "h1": "Accessibility Statement",
+      "noindex": true,
+      "images": 0
+    },
+    {
+      "route": "/book-a-call",
+      "h1": "Schedule an architecture & scoping call.",
+      "noindex": true,
+      "images": 0
+    },
+    {
+      "route": "/contact",
+      "h1": "Tell us what youwant to improve.",
+      "noindex": true,
+      "images": 1
+    },
+    {
+      "route": "/cookies",
+      "h1": "Cookie Policy",
+      "noindex": true,
+      "images": 0
+    },
+    {
+      "route": "/demos/admin-dashboard",
+      "h1": "A workspace that keeps the details together.",
+      "noindex": true,
+      "images": 2
+    },
+    {
+      "route": "/demos/booking-flow",
+      "h1": "A booking journey with room to breathe.",
+      "noindex": true,
+      "images": 2
+    },
+    {
+      "route": "/demos/ecommerce-store",
+      "h1": "Take the store for a little shopping trip.",
+      "noindex": true,
+      "images": 6
+    },
+    {
+      "route": "/demos/retail-pos",
+      "h1": "Step behind the counter.",
+      "noindex": true,
+      "images": 7
+    },
+    {
+      "route": "/demos",
+      "h1": "A little less watching.A lot more trying.",
+      "noindex": true,
+      "images": 13
+    },
+    {
+      "route": "/how-we-work",
+      "h1": "Predictable, disciplined delivery from discovery to handover.",
+      "noindex": true,
+      "images": 0
+    },
+    {
+      "route": "/",
+      "h1": "Useful by design.Connectedby nature.",
+      "noindex": true,
+      "images": 9
+    },
+    {
+      "route": "/insights/choosing-retail-pos",
+      "h1": "Choosing a Retail POS: What Shop Owners Overlook Until After Launch",
+      "noindex": true,
+      "images": 0
+    },
+    {
+      "route": "/insights/first-workflow-to-automate",
+      "h1": "The First Workflow to Automate in a Growing Business",
+      "noindex": true,
+      "images": 0
+    },
+    {
+      "route": "/insights/website-or-dashboard",
+      "h1": "Website or Admin Dashboard: Which Does Your Business Need First?",
+      "noindex": true,
+      "images": 0
+    },
+    {
+      "route": "/insights",
+      "h1": "Good questions.Considered answers.",
+      "noindex": true,
+      "images": 3
+    },
+    {
+      "route": "/pricing",
+      "h1": "Transparent, deliverable-driven investment models.",
+      "noindex": true,
+      "images": 0
+    },
+    {
+      "route": "/privacy",
+      "h1": "Privacy Policy",
+      "noindex": true,
+      "images": 0
+    },
+    {
+      "route": "/services/ai-voice-chat-automation",
+      "h1": "The conversation starts here. Even when you’re busy.",
+      "noindex": true,
+      "images": 4
+    },
+    {
+      "route": "/services/ecommerce-development",
+      "h1": "Make the next add-to-cart feel effortless.",
+      "noindex": true,
+      "images": 5
+    },
+    {
+      "route": "/services/mobile-app-development",
+      "h1": "A useful little part of your customer’s day.",
+      "noindex": true,
+      "images": 5
+    },
+    {
+      "route": "/services/pos-retail-management",
+      "h1": "A quicker counter. A better handle on your store.",
+      "noindex": true,
+      "images": 4
+    },
+    {
+      "route": "/services/seo-google-business-profile",
+      "h1": "Be there when the right customer starts looking.",
+      "noindex": true,
+      "images": 4
+    },
+    {
+      "route": "/services/social-media-marketing",
+      "h1": "Less posting for the sake of it. More reasons to care.",
+      "noindex": true,
+      "images": 6
+    },
+    {
+      "route": "/services/websites-admin-dashboards",
+      "h1": "Win the first impression. Simplify everything after.",
+      "noindex": true,
+      "images": 5
+    },
+    {
+      "route": "/services/workflow-automation",
+      "h1": "Move the work forward. Without moving it by hand.",
+      "noindex": true,
+      "images": 4
+    },
+    {
+      "route": "/services",
+      "h1": "Creative minds.Practical solutions.",
+      "noindex": true,
+      "images": 8
+    },
+    {
+      "route": "/solutions/clinics-appointments",
+      "h1": "A calmer front desk starts before the first appointment.",
+      "noindex": true,
+      "images": 3
+    },
+    {
+      "route": "/solutions/ecommerce-brands",
+      "h1": "A brand they discover. A store they come back to.",
+      "noindex": true,
+      "images": 3
+    },
+    {
+      "route": "/solutions/retail-pharmacy",
+      "h1": "A connected store. From first scan to closing time.",
+      "noindex": true,
+      "images": 3
+    },
+    {
+      "route": "/solutions/service-businesses",
+      "h1": "Turn “I’m interested” into a clear next step.",
+      "noindex": true,
+      "images": 3
+    },
+    {
+      "route": "/solutions",
+      "h1": "Integrated operational systems for four core business sectors.",
+      "noindex": true,
+      "images": 0
+    },
+    {
+      "route": "/terms",
+      "h1": "Terms of Service",
+      "noindex": true,
+      "images": 0
+    },
+    {
+      "route": "/work/studio-operations-admin-dashboard",
+      "h1": "Operations & Order Management Dashboard",
+      "noindex": true,
+      "images": 0
+    },
+    {
+      "route": "/work/studio-retail-management-system",
+      "h1": "Store Counter POS & Inventory Demonstration",
+      "noindex": true,
+      "images": 0
+    },
+    {
+      "route": "/work",
+      "h1": "Good thinking.Made tangible.",
+      "noindex": true,
+      "images": 20
+    },
+    {
+      "route": "/_not-found",
+      "h1": "Page Not Found",
+      "noindex": true,
+      "images": 0
+    }
+  ]
+}

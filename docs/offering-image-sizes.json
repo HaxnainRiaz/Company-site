@@ -1,0 +1,62 @@
+[
+  {
+    "name": "mobile",
+    "width": 1000,
+    "height": 667,
+    "bytes": 35452
+  },
+  {
+    "name": "website",
+    "width": 1000,
+    "height": 667,
+    "bytes": 40970
+  },
+  {
+    "name": "commerce",
+    "width": 1000,
+    "height": 667,
+    "bytes": 32920
+  },
+  {
+    "name": "voice",
+    "width": 1000,
+    "height": 667,
+    "bytes": 25642
+  },
+  {
+    "name": "automation",
+    "width": 1000,
+    "height": 667,
+    "bytes": 24920
+  },
+  {
+    "name": "retail",
+    "width": 1000,
+    "height": 667,
+    "bytes": 30086
+  },
+  {
+    "name": "seo",
+    "width": 1000,
+    "height": 667,
+    "bytes": 31888
+  },
+  {
+    "name": "social",
+    "width": 1000,
+    "height": 667,
+    "bytes": 78134
+  },
+  {
+    "name": "companion",
+    "width": 240,
+    "height": 297,
+    "bytes": 14510
+  },
+  {
+    "name": "clinic",
+    "width": 1000,
+    "height": 667,
+    "bytes": 34734
+  }
+]

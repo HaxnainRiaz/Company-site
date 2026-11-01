@@ -1,0 +1,8 @@
+import Image from 'next/image';
+import Link from 'next/link';
+import { ArrowUpRight, Users } from 'lucide-react';
+import { Container } from '@/components/ui/container';
+import { designPreview } from '@/content/design-preview';
+export function StudioAboutSection() {
+ return (<section className="studio-section studio-about"><Container><div className="section-top"><span className="eyebrow">05 / THE PEOPLE BEHIND THE PIXELS</span><Link href="/about" className="plain-link">A little about us <ArrowUpRight size={17} /></Link></div><div className="about-preview-grid"><div><h2>Small team energy.<br /><span className="muted-heading">Big idea people.</span></h2><p>Designers, developers, and problem solvers working at the intersection of good design and useful technology. A collaborative approach, with your business at the center.</p><div className="team-disciplines"><span><Users size={17} /> Design</span><span>Engineering</span><span>Automation</span></div></div><div className="team-photo"><Image src="/images/editorial/team-strategy.webp" alt="People collaborating in a studio; stock image illustrating the working approach, not actual staff" fill sizes="(max-width: 767px) 100vw, 45vw" /><span>Collaboration in focus · illustrative stock image</span></div></div><div className="metrics-header"><span className="eyebrow">A LITTLE SPACE FOR BIG MILESTONES</span><span className="preview-tag">SAMPLE FIGURES · REPLACE WITH VERIFIED NUMBERS</span></div><div className="metrics-grid">{designPreview.metrics.map(metric => <div key={metric.label}><strong>{metric.value}<span>{metric.suffix}</span></strong><span>{metric.label}</span><small>Illustrative preview</small></div>)}</div></Container></section>);
+}

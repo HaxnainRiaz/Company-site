@@ -1,0 +1,69 @@
+/* Keep the shared FAQ readable wherever it sits on the dark studio surface. */
+.offering-faq details,
+.home-studio-faq details {
+  background: #141625;
+  border-color: #3b3549;
+}
+
+.offering-faq details[open],
+.home-studio-faq details[open] {
+  background: #1b1b2d;
+}
+
+.offering-faq summary,
+.home-studio-faq summary {
+  color: #f6f2ff;
+}
+
+.offering-faq details > div,
+.home-studio-faq details > div {
+  color: #d0c6df;
+  border-color: #3b3549;
+}
+
+.offering-faq summary [aria-hidden="true"],
+.home-studio-faq summary [aria-hidden="true"] {
+  color: #c69afc;
+}
+
+/* Each wrapped line receives the same horizontal fill, tied to one scroll value. */
+.scroll-fill-ink {
+  color: #21142e;
+}
+
+.motion-ready [data-scroll-fill]:has(> .scroll-fill-ink) {
+  background: none;
+  color: inherit;
+}
+
+.motion-ready [data-scroll-fill] > .scroll-fill-ink {
+  background-image: linear-gradient(
+    90deg,
+    #21142e 0 var(--word-fill, 100%),
+    #b5a8c3 var(--word-fill, 100%) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+.home-belief .scroll-fill-ink em {
+  color: inherit;
+  -webkit-text-fill-color: inherit;
+}
+
+.motion-paused [data-scroll-fill] > .scroll-fill-ink {
+  background: none;
+  color: #21142e;
+  -webkit-text-fill-color: currentColor;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .motion-ready [data-scroll-fill] > .scroll-fill-ink {
+    background: none;
+    color: #21142e;
+    -webkit-text-fill-color: currentColor;
+  }
+}

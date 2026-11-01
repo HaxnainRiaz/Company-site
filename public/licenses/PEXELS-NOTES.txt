@@ -1,0 +1,8 @@
+Pexels contextual stock photography
+License reference: https://www.pexels.com/license/
+Checked: 2026-10-28
+Downloaded from the exact source pages and their free-download links listed in docs/asset-register.md.
+Permitted: free commercial use and modification. Attribution is not required.
+Restrictions include no implied endorsement, offensive depiction, resale of unaltered copies, stock redistribution, or trademark use.
+These photographs are contextual illustrations and do not identify company staff, clients, offices, or owned software.
+See src/content/assets.ts for the complete per-file record and source credits.

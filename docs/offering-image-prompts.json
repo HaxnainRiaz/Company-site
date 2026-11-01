@@ -1,0 +1,72 @@
+[
+  {
+    "name": "mobile",
+    "source": "C:\\Users\\Hasnain\\.codex\\generated_images\\01a183b0-48cc-7fd0-8657-b772eff767dc\\exec-d3f4e9c6-fc9e-48d7-8ab9-3f2302d3a5c8.png",
+    "prompt": "Use case: ui-mockup. Create one premium website illustration for a mobile app development service, landscape 3:2 composition. Two elegant modern smartphones floating at a subtle 3/4 angle, one foreground and one behind, showing a beautifully designed fictional appointment/lifestyle app. White UI, violet #5f01fb buttons, lavender tiles, near-black typography. One screen shows a tasteful image of a modern interior, small appointment cards, calendar date selector and a violet booking button; other shows a confirmation and personal schedule. High-end product-design render, realistic glass and metallic white frame, sophisticated soft studio lighting, light lavender sculptural loop behind devices, subtle soft shadow. Background solid very pale lavender #f8f6fc, no hard floor or horizon, objects centred with generous 12% breathing room on all sides. No people, no logos, no captions outside devices, no watermark. Keep interface text minimal and clean. This is a compact hero illustration for a professional agency, refined and tangible, not a flat wireframe or generic dashboard.",
+    "tool": "built-in image_gen",
+    "output": "public/images/offerings/mobile.webp"
+  },
+  {
+    "name": "website",
+    "source": "C:\\Users\\Hasnain\\.codex\\generated_images\\01a183b0-48cc-7fd0-8657-b772eff767dc\\exec-743e2299-6630-4ed4-939b-8f88e476074e.png",
+    "prompt": "Use case: stylized-concept / ui-mockup. One landscape 3:2 original illustration for a professional digital studio website. Unified palette ONLY vivid violet #5f01fb, pale lavender, white, charcoal, neutral photography. Background seamless very pale lavender #f8f6fc, softly lit, no horizon, no heavy vignette. High-end 3D product render with realistic white metal, soft glass and gentle ambient shadows. Compact centered composition with generous breathing room, clear silhouette, premium art direction. No brand logos, no captions outside devices, no watermark. A beautifully designed floating white laptop in a gentle three-quarter view, displaying a refined architecture studio website with a large interior photography tile, minimal editorial typography, violet call-to-action, and a second small glass client-portal card hovering alongside it showing three project status rows. Add a white ceramic abstract sphere and subtle lavender arc. An original professional web design portfolio scene, not graphs or a generic sales dashboard.",
+    "tool": "built-in image_gen",
+    "output": "public/images/offerings/website.webp"
+  },
+  {
+    "name": "commerce",
+    "source": "C:\\Users\\Hasnain\\.codex\\generated_images\\01a183b0-48cc-7fd0-8657-b772eff767dc\\exec-1085fe88-2dd2-4d15-a81a-4a27370f7eeb.png",
+    "prompt": "Use case: stylized-concept / ui-mockup. One landscape 3:2 original illustration for a professional digital studio website. Unified palette ONLY vivid violet #5f01fb, pale lavender, white, charcoal, neutral photography. Background seamless very pale lavender #f8f6fc, softly lit, no horizon, no heavy vignette. High-end 3D product render with realistic white metal, soft glass and gentle ambient shadows. Compact centered composition with generous breathing room, clear silhouette, premium art direction. No brand logos, no captions outside devices, no watermark. Premium e-commerce product-design scene: a floating tablet storefront showing a beautifully photographed matte violet wireless headphone product, with one real 3D lavender headphone beside the tablet and a small floating checkout card with a violet confirmation checkmark. Editorial store UI with white canvas, minimal product options, violet buttons. The shopping journey is visible, no sales graphs.",
+    "tool": "built-in image_gen",
+    "output": "public/images/offerings/commerce.webp"
+  },
+  {
+    "name": "voice",
+    "source": "C:\\Users\\Hasnain\\.codex\\generated_images\\01a183b0-48cc-7fd0-8657-b772eff767dc\\exec-9222a47f-5de1-4923-9d45-d30b760563fd.png",
+    "prompt": "Use case: stylized-concept / ui-mockup. One landscape 3:2 original illustration for a professional digital studio website. Unified palette ONLY vivid violet #5f01fb, pale lavender, white, charcoal, neutral photography. Background seamless very pale lavender #f8f6fc, softly lit, no horizon, no heavy vignette. High-end 3D product render with realistic white metal, soft glass and gentle ambient shadows. Compact centered composition with generous breathing room, clear silhouette, premium art direction. No brand logos, no captions outside devices, no watermark. A premium approachable AI assistant scene: sculptural white over-ear customer service headset with translucent violet earcups, floating above a curved lavender audio waveform made of glass bars, and two small frosted-white chat message bubbles with three dots and violet checkmarks. Refined tactile materials and smooth rounded forms. Show a tiny smiling violet orb beside the chat bubbles. No dashboard, no text.",
+    "tool": "built-in image_gen",
+    "output": "public/images/offerings/voice.webp"
+  },
+  {
+    "name": "automation",
+    "source": "C:\\Users\\Hasnain\\.codex\\generated_images\\01a183b0-48cc-7fd0-8657-b772eff767dc\\exec-19210f78-bdba-45fc-95c5-2196b2415d1b.png",
+    "prompt": "Use case: stylized-concept / ui-mockup. One landscape 3:2 original illustration for a professional digital studio website. Unified palette ONLY vivid violet #5f01fb, pale lavender, white, charcoal, neutral photography. Background seamless very pale lavender #f8f6fc, softly lit, no horizon, no heavy vignette. High-end 3D product render with realistic white metal, soft glass and gentle ambient shadows. Compact centered composition with generous breathing room, clear silhouette, premium art direction. No brand logos, no captions outside devices, no watermark. An elegant isometric automation sculpture: four small frosted-white square platforms connected by translucent violet glass tubes, carrying a paper form, a violet database cylinder, an approval check seal, and a small outgoing envelope. One tiny friendly white rounded robot with a violet face screen is pushing the form onto the first platform. A readable left-to-right journey, not a dense diagram. No text.",
+    "tool": "built-in image_gen",
+    "output": "public/images/offerings/automation.webp"
+  },
+  {
+    "name": "retail",
+    "source": "C:\\Users\\Hasnain\\.codex\\generated_images\\01a183b0-48cc-7fd0-8657-b772eff767dc\\exec-a95cc3f5-1ad1-4ff8-916d-a0ff3e11ee9e.png",
+    "prompt": "Use case: stylized-concept / ui-mockup. One landscape 3:2 original illustration for a professional digital studio website. Unified palette ONLY vivid violet #5f01fb, pale lavender, white, charcoal, neutral photography. Background seamless very pale lavender #f8f6fc, softly lit, no horizon, no heavy vignette. High-end 3D product render with realistic white metal, soft glass and gentle ambient shadows. Compact centered composition with generous breathing room, clear silhouette, premium art direction. No brand logos, no captions outside devices, no watermark. A refined isometric retail checkout still life: white point-of-sale touchscreen showing a small product grid and receipt list with violet buttons, compact white receipt printer with paper, a barcode scanner, two small neatly stacked white and lavender product boxes. A tiny violet price tag and stock card hovering beside the terminal. No branding. Professional retail system illustration, not a generic laptop.",
+    "tool": "built-in image_gen",
+    "output": "public/images/offerings/retail.webp"
+  },
+  {
+    "name": "seo",
+    "source": "C:\\Users\\Hasnain\\.codex\\generated_images\\01a183b0-48cc-7fd0-8657-b772eff767dc\\exec-baee5823-00d4-4706-8afd-9a844a7b8544.png",
+    "prompt": "Use case: stylized-concept / ui-mockup. One landscape 3:2 original illustration for a professional digital studio website. Unified palette ONLY vivid violet #5f01fb, pale lavender, white, charcoal, neutral photography. Background seamless very pale lavender #f8f6fc, softly lit, no horizon, no heavy vignette. High-end 3D product render with realistic white metal, soft glass and gentle ambient shadows. Compact centered composition with generous breathing room, clear silhouette, premium art direction. No brand logos, no captions outside devices, no watermark. A premium local-search discovery illustration: a folded white and pale lavender street map with dimensional violet location pin, a floating clean browser search bar, a business search-result card with a small photographic storefront thumbnail, a glass magnifying lens and subtle ascending violet step blocks. Search interface is minimal, no rankings, no invented numerical success claims. Sculptural but clearly about local search.",
+    "tool": "built-in image_gen",
+    "output": "public/images/offerings/seo.webp"
+  },
+  {
+    "name": "social",
+    "source": "C:\\Users\\Hasnain\\.codex\\generated_images\\01a183b0-48cc-7fd0-8657-b772eff767dc\\exec-8b77e174-aeda-49f5-afd5-f96142f631d8.png",
+    "prompt": "Use case: stylized-concept / ui-mockup. One landscape 3:2 original illustration for a professional digital studio website. Unified palette ONLY vivid violet #5f01fb, pale lavender, white, charcoal, neutral photography. Background seamless very pale lavender #f8f6fc, softly lit, no horizon, no heavy vignette. High-end 3D product render with realistic white metal, soft glass and gentle ambient shadows. Compact centered composition with generous breathing room, clear silhouette, premium art direction. No brand logos, no captions outside devices, no watermark. An art-directed social content studio still life: three floating overlapping editorial social post cards, one with a high-end photo of a lavender perfume bottle, another with a bold violet abstract typographic layout using only the word CREATE, a third with a short video preview and a white play triangle. A miniature white camera, glass violet heart and editorial calendar tiles as secondary objects. Asymmetric magazine collage, sophisticated layered paper and glass, not a dashboard.",
+    "tool": "built-in image_gen",
+    "output": "public/images/offerings/social.webp"
+  },
+  {
+    "name": "companion",
+    "source": "C:\\Users\\Hasnain\\.codex\\generated_images\\01a183b0-48cc-7fd0-8657-b772eff767dc\\exec-5c251913-a9d9-47a2-9f89-b6fc8ce775cd.png",
+    "prompt": "Use case: stylized-concept. A single adorable premium 3D studio companion robot, small rounded pear-shaped white ceramic body, oversized rounded-square head with glossy dark violet face screen, two bright lavender friendly eyes and a small smile, small white mitten hands, short feet. One hand lifted in a wave, the other holding a tiny violet spark/star. Front three-quarter view, entire character visible including feet, centered with generous padding, realistic soft materials, elegant Pixar-like product mascot, no text no logos no props beyond the tiny star. Actual fully transparent background; soft minimal contact shadow only. Intended as a small 80px animated website character.",
+    "tool": "built-in image_gen",
+    "output": "public/images/offerings/companion.webp"
+  },
+  {
+    "name": "clinic",
+    "source": "C:\\Users\\Hasnain\\.codex\\generated_images\\01a183b0-48cc-7fd0-8657-b772eff767dc\\exec-cc1c2233-0b00-495d-baec-14c2d58be0a7.png",
+    "prompt": "Use case: stylized-concept / ui-mockup. One landscape 3:2 original illustration for a professional digital studio website. Unified palette ONLY vivid violet #5f01fb, pale lavender, white, charcoal, neutral photography. Background seamless very pale lavender #f8f6fc, softly lit, no horizon, no heavy vignette. High-end 3D product render with realistic white metal, soft glass and gentle ambient shadows. Compact centered composition with generous breathing room, clear silhouette, premium art direction. No brand logos, no captions outside devices, no watermark. A compact white tablet showing an elegant appointment calendar with lavender day columns and violet appointment cards, alongside a white phone showing a confirmed booking with violet checkmark. Add a small ceramic white medical cross, a pale lavender desk plant, and a glass notification bubble. Calm healthcare administration, no people, no clinical procedures, no text except minimal UI.",
+    "tool": "built-in image_gen",
+    "output": "public/images/offerings/clinic.webp"
+  }
+]

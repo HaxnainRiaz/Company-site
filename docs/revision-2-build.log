@@ -1,0 +1,70 @@
+
+> company-website@0.1.0 build
+> next build
+
+▲ Next.js 16.4.3 (Turbopack)
+✓ Running next.config.ts took 133ms
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 10.2s
+  Running TypeScript ...
+  Finished TypeScript in 12.5s ...
+  Collecting page data using 3 workers ...
+  Generating static pages using 3 workers (0/43) ...
+  Generating static pages using 3 workers (10/43) 
+  Generating static pages using 3 workers (21/43) 
+  Generating static pages using 3 workers (32/43) 
+✓ Generating static pages using 3 workers (43/43) in 6.2s
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /
+├ ○ /_not-found
+├ ○ /about
+├ ○ /accessibility
+├ ƒ /api/enquiries
+├ ○ /book-a-call
+├ ○ /contact
+├ ○ /cookies
+├ ○ /demos
+├   /demos/[slug]
+│ ├ ● /demos/admin-dashboard
+│ ├ ● /demos/retail-pos
+│ ├ ● /demos/ecommerce-store
+│ └ ● /demos/booking-flow
+├ ○ /how-we-work
+├ ○ /insights
+├   /insights/[slug]
+│ ├ ● /insights/website-or-dashboard
+│ ├ ● /insights/choosing-retail-pos
+│ └ ● /insights/first-workflow-to-automate
+├ ○ /pricing
+├ ○ /privacy
+├ ○ /robots.txt
+├ ○ /services
+├ ○ /services/ai-voice-chat-automation
+├ ○ /services/ecommerce-development
+├ ○ /services/mobile-app-development
+├ ○ /services/pos-retail-management
+├ ○ /services/seo-google-business-profile
+├ ○ /services/social-media-marketing
+├ ○ /services/websites-admin-dashboards
+├ ○ /services/workflow-automation
+├ ○ /sitemap.xml
+├ ○ /solutions
+├ ○ /solutions/clinics-appointments
+├ ○ /solutions/ecommerce-brands
+├ ○ /solutions/retail-pharmacy
+├ ○ /solutions/service-businesses
+├ ○ /terms
+├ ƒ /thank-you
+├ ○ /work
+└   /work/[slug]
+  ├ ● /work/studio-retail-management-system
+  └ ● /work/studio-operations-admin-dashboard
+
+
+○  (Static)   prerendered as static content
+●  (SSG)      prerendered as static HTML (uses generateStaticParams)
+ƒ  (Dynamic)  server-rendered on demand
+
