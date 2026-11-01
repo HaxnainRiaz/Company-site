@@ -27,16 +27,27 @@
 }
 
 /* Each wrapped line receives the same horizontal fill, tied to one scroll value. */
-.scroll-fill-ink {
+.scroll-fill-lines {
+  display: block;
+}
+
+.scroll-fill-line {
+  display: block;
+  width: fit-content;
+  max-width: 100%;
   color: #21142e;
 }
 
-.motion-ready [data-scroll-fill]:has(> .scroll-fill-ink) {
+.scroll-fill-lines[data-measured="true"] .scroll-fill-line {
+  white-space: nowrap;
+}
+
+.motion-ready [data-scroll-fill]:has(.scroll-fill-line) {
   background: none;
   color: inherit;
 }
 
-.motion-ready [data-scroll-fill] > .scroll-fill-ink {
+.motion-ready [data-scroll-fill] .scroll-fill-line {
   background-image: linear-gradient(
     90deg,
     #21142e 0 var(--word-fill, 100%),
@@ -45,23 +56,16 @@
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  box-decoration-break: clone;
-  -webkit-box-decoration-break: clone;
 }
 
-.home-belief .scroll-fill-ink em {
-  color: inherit;
-  -webkit-text-fill-color: inherit;
-}
-
-.motion-paused [data-scroll-fill] > .scroll-fill-ink {
+.motion-paused [data-scroll-fill] .scroll-fill-line {
   background: none;
   color: #21142e;
   -webkit-text-fill-color: currentColor;
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .motion-ready [data-scroll-fill] > .scroll-fill-ink {
+  .motion-ready [data-scroll-fill] .scroll-fill-line {
     background: none;
     color: #21142e;
     -webkit-text-fill-color: currentColor;
